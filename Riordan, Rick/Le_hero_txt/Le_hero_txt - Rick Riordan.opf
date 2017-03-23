@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8a1a827-7ebc-4f53-a3d3-a9d719b7d822</dc:identifier>
+        <dc:title>Le_hero_txt</dc:title>
+        <dc:creator opf:file-as="Riordan, Rick" opf:role="aut">Rick Riordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.82.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-09T23:07:34+00:00</dc:date>
+        <dc:description>La déesse Gaïa s’apprête à lever l’armée des Géants, rappelés du Styx, pour faire régner le chaos sur le monde. Face à une telle menace, tous les demi-dieux doivent s’unir… Au Camp Jupiter, deux jeunes Romains sont désignés pour cette quête désespérée : Hazel Levesque, fille de Pluton, et Frank Zhang, un descendant des Argonautes. Mais la prophétie ancienne parle d’un trio. Et c’est un demi-dieu grec, au nom bien connu, qui doit leur prêter main-forte. Un héros qu’on croyait disparu, un héros appelé… Percy Jackson.</dc:description>
+        <dc:publisher>Manu</dc:publisher>
+        <dc:language>fra</dc:language>
+        <dc:subject>Aventure</dc:subject>
+        <meta content="{&quot;Rick Riordan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Héros de l'Olympe" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2017-03-23T21:14:53.083000+00:00" name="calibre:timestamp"/>
+        <meta content="Le_hero_txt" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Le_hero_txt - Rick Riordan.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>
